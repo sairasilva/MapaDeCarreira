@@ -1,0 +1,203 @@
+{
+  "seo": {
+    "title": "Saira Silva | Mapa de Carreira em Tecnologia",
+    "description": "Mapa de carreira de Saira Silva, com objetivos profissionais, trilha de aprendizagem, habilidades, idiomas e contatos.",
+    "author": "Saira Silva",
+    "canonicalUrl": "https://sairasilva.com/mapa-de-carreira"
+  },
+  "profile": {
+    "name": "Saira da Silva Pereira",
+    "headline": "Desenvolvedora Web e Gestão de TI",
+    "photo": "assets/images/profile.jpeg",
+    "photoAlt": "Foto profissional de Saira Silva",
+    "summary": "Tenho experiência em desenvolvimento web e participação em projetos que transformaram ideias em soluções digitais, unindo tecnologia, acessibilidade e experiência do usuário. Atualmente, organizo meu mapa de carreira com foco em aprendizagem contínua, colaboração, inovação, gestão da tecnologia da informação e impacto profissional, buscando desenvolver soluções digitais inteligentes, acessíveis e centradas nas pessoas.",
+    "cvUrl": "#"
+  },
+  "contacts": [
+    {
+      "label": "saira.pereira77@gmail.com",
+      "url": "mailto:saira.pereira77@gmail.com"
+    },
+    {
+      "label": "linkedin.com/in/sairasilva",
+      "url": "https://www.linkedin.com/in/saira-silva"
+    },
+    {
+      "label": "github.com/sairasilva",
+      "url": "https://github.com/sairasilva"
+    }
+  ],
+  "careerSteps": [
+    {
+      "title": "Desenvolvedora Júnior",
+      "description": "Consolidar fundamentos de desenvolvimento web, versionamento, acessibilidade, lógica de programação e boas práticas de comunicação em equipe.",
+      "softSkills": [
+        "Comunicação clara para pedir ajuda e registrar aprendizados;",
+        "Organização para estudar, praticar e acompanhar tarefas;",
+        "Curiosidade para investigar problemas e testar soluções."
+      ],
+      "roadmap": [
+        "HTML semântico",
+        "CSS responsivo",
+        "JavaScript",
+        "Git e GitHub",
+        "Acessibilidade",
+        "Consumo de APIs",
+        "Fundamentos de UX/UI"
+      ]
+    },
+    {
+      "title": "Desenvolvedora Pleno",
+      "description": "Atuar com mais autonomia, participar de decisões técnicas e entregar funcionalidades com qualidade, testes e documentação.",
+      "softSkills": [
+        "Responsabilidade sobre entregas e prazos combinados;",
+        "Colaboraçao em revisões de código e planejamento;",
+        "Capacidade de explicar escolhas técnicas para diferentes publicos;",
+        "Comunicação entre design e desenvolvimento."
+      ],
+      "roadmap": [
+        "React",
+        "Node.js",
+        "APIs REST",
+        "Testes automatizados",
+        "Banco de dados",
+        "Design Systems",
+        "UX/UI",
+        "Prototipação",
+        "Responsividade avançada",
+        "Animações e interações"
+      ]
+    },
+    {
+      "title": "Especialização Estratégica",
+      "description": "Expandir a visão estratégica sobre tecnologia, experiência do usuário e produtos digitais, conectando desenvolvimento, inovação e impacto social. Possíveis pós-graduações: Gestão de Produtos Digitais; UX/UI; Gestão da TI com foco em inovação; BI + Automação.",
+      "softSkills": [
+        "Pensamento estratégico;",
+        "Visão de produto;",
+        "Comunicação multidisciplinar;",
+        "Adaptabilidade diante de novas tecnologias;",
+        "Organização e tomada de decisão;",
+        "Colaboração entre tecnologia, design e negócios."
+      ],
+      "roadmap": [
+        "Visão de produto",
+        "Metodologias ágeis",
+        "Experiência do usuário",
+        "Inovação digital",
+        "Gestão estratégica",
+        "Acessibilidade digital",
+        "Liderança multidisciplinar"
+      ]
+    },
+    {
+      "title": "BI, Dados & Automação",
+      "description": "Criar automações, dashboards e integrações inteligentes para apoiar decisões estratégicas e melhorar experiências digitais.",
+      "softSkills": [
+        "Pensamento analítico;",
+        "Organização de processos;",
+        "Resolução de problemas;",
+        "Visão sistêmica sobre dados e produto."
+      ],
+      "roadmap": [
+        "Dashboards",
+        "Análise de dados",
+        "Power BI",
+        "Automações",
+        "APIs",
+        "Integrações",
+        "Analytics",
+        "IA aplicada",
+        "n8n",
+        "Pipelines de dados"
+      ]
+    },
+    {
+      "title": "Liderança Técnica & Estratégica",
+      "description": "Contribuir para padrões de arquitetura, orientar equipes, liderar soluções digitais e apoiar decisões estratégicas com base em dados, experiência do usuário e impacto tecnológico.",
+      "softSkills": [
+        "Mentoria com escuta ativa e feedback construtivo;",
+        "Priorizacao entre impacto, custo, risco e aprendizado;",
+        "Visão sistêmica sobre produto, pessoas e tecnologia;",
+        "Liderança colaborativa e tomada de decisão."
+      ],
+      "roadmap": [
+        "Arquitetura de software",
+        "Cloud computing",
+        "Observabilidade",
+        "Segurança",
+        "Governança de TI",
+        "Gestão de equipes",
+        "Transformação digital",
+        "Inovação tecnológica"
+      ]
+    }
+  ],
+  "skillGroups": [
+    {
+      "title": "Frontend",
+      "skills": [
+        {
+          "name": "HTML, CSS e JavaScript",
+          "level": 80
+        },
+        {
+          "name": "UI/UX Design",
+          "level": 60
+        },
+        {
+          "name": "Prototipagem",
+          "level": 50
+        },
+        {
+          "name": "Figma",
+          "level": 60
+        },
+        {
+          "name": "React",
+          "level": 30
+        }
+      ]
+    },
+    {
+      "title": "Backend e Dados",
+      "skills": [
+        {
+          "name": "Python",
+          "level": 45
+        },
+        {
+          "name": "Node.js e APIs",
+          "level": 42
+        },
+        {
+          "name": "MySQL",
+          "level": 40
+        }
+      ]
+    }
+  ],
+  "otherSkills": [
+    "Adaptabilidade",
+    "Comunicação",
+    "Documentação",
+    "Gestão de Tempo",
+    "Organização",
+    "Resiliência",
+    "Resolução de Problemas",
+    "Trabalho em Equipe"
+  ],
+  "languages": [
+    {
+      "name": "Português",
+      "level": "Nativo"
+    },
+    {
+      "name": "Inglês",
+      "level": "Básico"
+    },
+    {
+      "name": "Espanhol",
+      "level": "Básico"
+    }
+  ]
+}
