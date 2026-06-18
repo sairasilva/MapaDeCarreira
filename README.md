@@ -1,4 +1,4 @@
-# 🌐 Mapa de Carreira em Tecnologia, Produto & Inovação
+# 🌐 Projeto - Mapa de Carreira
 
 Projeto desenvolvido para apresentar meu mapa de carreira, trajetória profissional, habilidades técnicas e objetivos na área de tecnologia, desenvolvimento web, gestão de TI e inovação digital.
 
